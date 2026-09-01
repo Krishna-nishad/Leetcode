@@ -27,4 +27,12 @@
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Krishna-nishad/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Krishna-nishad/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Krishna-nishad/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
